@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kirthik and Nikkila//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:reception-20261115-kirthik-nikkila@wedding
+DTSTAMP:20261030T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T153000Z
+SUMMARY:Kirthik & Nikkila - Wedding Reception
+DESCRIPTION:With our families' love and blessings\, please celebrate with us.
+LOCATION:Swarna Mahal\, Covai to Salem NH Road\, Chengappalli\, Tiruppur\, Tamil Nadu\, India
+END:VEVENT
+END:VCALENDAR
